@@ -1,6 +1,6 @@
 ### Hi there, I'm Matan Naydis 👋
 
-I'm a 17-year-old programming enthusiast with 5 years of experience. I have a passion for programming and enjoy building software applications that solve real-world problems.
+I'm a 17-year-old programming enthusiast with 5 years of experience. I have a passion for programming and enjoy building software and web applications that solve real-world problems.
 
 I'm proficient in various programming languages including Python, Java, HTML, CSS, JavaScript, and SQL, and I'm always eager to learn more. Lately, I've been diving deep into Python and exploring its advanced features.
 
