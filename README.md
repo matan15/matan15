@@ -1,16 +1,30 @@
-### Hi there 👋
+### Hi there, I'm Matan Naydis 👋
 
-<!--
-**matan15/matan15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a 17-year-old programming enthusiast with 5 years of experience. I have a passion for programming and enjoy building software applications that solve real-world problems.
 
-Here are some ideas to get you started:
+I'm proficient in various programming languages including Python, Java, HTML, CSS, JavaScript, and SQL, and I'm always eager to learn more. Lately, I've been diving deep into Python and exploring its advanced features.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Currently, I'm focused on mastering Python and building more complex projects.
+- 💻 I'm constantly working on personal projects to improve my skills and try out new technologies.
+- 🤝 I'm always looking to collaborate on interesting projects, so feel free to reach out to me.
+
+### Skills
+
+- Python
+- Java
+- HTML
+- CSS
+- JavaScript
+- SQL
+
+### Projects
+
+- [File To DNA Converter](https://github.com/matan15/File-To-DNA)
+- [Med-Li](https://github.com/matan15/Med-Li)
+- [Automated Playing Bot](https://github.com/matan15/automated-game-playing-bot)
+
+### Interests
+
+Apart from programming, I enjoy reading articles about programming and trying out new things. I love exploring new technologies and experimenting with different programming languages and frameworks to broaden my skills and knowledge.
+
+Thanks for stopping by! 😄
