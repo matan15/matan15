@@ -24,6 +24,7 @@ I'm proficient in various programming languages including Python, Java, HTML, CS
 
 ### Projects
 
+- [YouTube Downloader](https://github.com/matan15/youtube-downloader)
 - [File To DNA Converter](https://github.com/matan15/File-To-DNA)
 - [Med-Li](https://github.com/matan15/Med-Li)
 - [Automated Playing Bot](https://github.com/matan15/automated-game-playing-bot)
