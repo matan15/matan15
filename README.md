@@ -38,7 +38,7 @@ Thanks for stopping by! 😄
 
 <p align="center">
 <a href="https://github.com/matan15">
-  <img height="180em" width="410em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=matan15&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
-    <img height="180em" width="410em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=matan15&layout=compact&langs_count=8&theme=buefy"/>
+  <img height="183px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=matan15&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
+  <img height="180px" width="410px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matan15&size_weight=0.5&count_weight=0.5&layout=compact&langs_count=8&theme=buefy"/>
 </a>
 </p>
