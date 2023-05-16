@@ -26,6 +26,7 @@ Hi, my name is Matan Naydis. I am a highly skilled Python, HTML, CSS, JavaScript
 - [File To DNA Converter](https://github.com/matan15/File-To-DNA)
 - [Med-Li](https://github.com/matan15/Med-Li)
 - [Automated Playing Bot](https://github.com/matan15/automated-game-playing-bot)
+- [Weatherly](https://github.com/matan15/Weatherly)
 
 ---
 
